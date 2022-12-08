@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "832322774731",
+    "project_id": "veloshop-108a6",
+    "storage_bucket": "veloshop-108a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832322774731:android:02edcfac8e2ee119965d4e",
+        "android_client_info": {
+          "package_name": "com.example.bicycleshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832322774731-p7k6tkgef1ua7lddjkbsp9t831h9ofeu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhUbmikZrH1qzqDDcjC_iZcp8Hn2SPsY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832322774731-p7k6tkgef1ua7lddjkbsp9t831h9ofeu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
